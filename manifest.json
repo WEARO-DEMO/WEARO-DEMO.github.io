@@ -1,0 +1,16 @@
+{
+  "id": "/",
+  "name": "WEARO",
+  "short_name": "WEARO",
+  "description": "Real-time stock from independent Dubai boutiques, in one search, delivered same day.",
+  "start_url": ".",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F4EFE4",
+  "theme_color": "#FF5A1E",
+  "icons": [
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
